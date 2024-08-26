@@ -94,7 +94,7 @@ PS:【不限期套餐，按流量付费，流量用完为止】
 
 
 ## 墙裂机场
-### 官网地址：https://cdn.qianglie.biz/#/register?code=U8yGJERl
+### [官网地址：点击获取](https://cdn.qianglie.biz/#/register?code=U8yGJERl)
 【墙裂】6年专线机场，国外运营。提供快速、安全、可靠的全球网络加速服务。
 
 |套餐名称|月付价格|年付价格|每月流量|
