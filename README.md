@@ -165,7 +165,7 @@ PS:【不限期套餐，按流量付费，流量用完为止】
 
 如需帮助或有任何疑问，请通过以下方式联系我们：
 
-- 邮箱: lglavande@gmail.com
+- 邮箱:  xasgxq@gmail.com
 
 
 
