@@ -184,6 +184,8 @@ PS:【不限期套餐，按流量付费，流量用完为止】
 
 - 邮箱:  xasgxq@gmail.com
 
+友情链接：
+①更多其他专业稳定机场VPN推荐：https://github.com/ANDY202301S/Clashverge
 
 
 
