@@ -33,7 +33,7 @@
 
 
 ## 流量光机场（专业老牌机场）
-### 官网地址：https://bit.ly/3Xx32QF
+### 官网地址：[https://cutt.ly/heU2e2U3](https://cutt.ly/heU2e2U3)
 
 2024年机场圈的黑马，机场推荐名列前茅，专业老牌机场，中转线路（含小部分专线节点）晚高峰秒开8K，机场节点众多，提供冷门国家, 解锁流媒体和ChatGPT 奈飞 TikTok 
 
@@ -62,7 +62,7 @@
 
 
 ## 飞鸟云机场
-### 官网地址：https://bit.ly/3vHmFKb
+### 官网地址：[https://bit.ly/3vHmFKb](https://feiniaoyun01.com/#/register?code=uG4JPoC5)
 |  飞鸟云机场 | 付款周期 | 价格 | 每月流量 | 同时在线数量 |
 |  ----  | ----  | ----  | ----  |----  |
 | 10元月付  | 月付 | 10元  | 200G | 不限设备数量  |
@@ -83,7 +83,7 @@
 
 
 ## 可乐云机场
-### 官网地址：https://bit.ly/3VncZiB
+### 官网地址：[https://bit.ly/3VncZiB](https://cokecloud.net/#/register?code=fLZICKkC)
 
 总部美国，主打安全，翻墙100%安全的机场VPN
 
@@ -123,7 +123,7 @@
 
 
 ## 超实惠机场
-### 官网地址：https://bit.ly/3T3bjZx
+### 官网地址：[https://bit.ly/3T3bjZx](https://cshjc.top/web/#/login?code=idnjJ84X)
 |  超实惠 | 付款周期 | 价格 | 每月流量 | 同时在线数量 |
 |  ----  | ----  | ----  | ----  |----  |
 | 新人体验  | 月付 | 4.9元  | 150G | 不限设备数量  |
