@@ -197,7 +197,7 @@ PS:【不限期套餐，按流量付费，流量用完为止】
 
 2️⃣Clash翻墙代理软件下载：https://github.com/029danio/clash
 
-3️⃣（如需挂友情链接，请联系邮箱xasgxq@gmail.com 【请事先告知友链】）
+3️⃣（如需挂友情链接，请联系邮箱xasgxq@gmail.com 【请邮件标题署名“友链”】）
 
 
 
