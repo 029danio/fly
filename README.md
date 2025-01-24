@@ -185,11 +185,11 @@ PS:【不限期套餐，按流量付费，流量用完为止】
 - 邮箱:  xasgxq@gmail.com
 
 ## 友情链接：
-1️⃣更多其他专业稳定机场VPN推荐：https://github.com/ANDY202301S/Clashverge
+1️⃣👍更多其他专业稳定机场VPN推荐：https://github.com/ANDY202301S/Clashverge
 
-2️⃣Clash翻墙代理软件下载：https://github.com/029danio/clash
+2️⃣🎢Clash翻墙代理软件下载：https://github.com/029danio/clash
 
-3️⃣（如需挂友情链接，请联系邮箱xasgxq@gmail.com 【请邮件标题署名“友链”】）
+3️⃣（如需挂友情链接🤝，请联系邮箱xasgxq@gmail.com 【请邮件标题署名“友链”】）
 
 😍😍😍 TG福利搜索群：https://t.me/jiesouy  搜群神器，搜啥有啥。
 ［聊天框发送要搜的关键词，就可以了］
