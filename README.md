@@ -32,7 +32,7 @@
 
 
 ## 超实惠机场——高质量翻墙VPN服务（送全网影视会员）
-### 📌 官网地址：https://bit.ly/3T3bjZx
+### 📌 官网地址：https://cshjc.top/web/#/login?code=idnjJ84X
 限时85折优惠码：85off55（抓紧时间！）
 
 为什么选择超实惠机场？
