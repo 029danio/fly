@@ -41,7 +41,7 @@
 
 ✅ 全平台支持——Windows、Mac、iOS、Android、Linux，无限制设备数
 
-✅ 流媒体解锁——畅享Netflix、Disney+、HBO、TikTok、ChatGPT等海外应用
+✅ 流媒体解锁——畅享Netflix、Disney+、HBO、TikTok、ChatGPT、Deepseek等海外应用
 
 ✅ 高性价比——最低 4.9元/月，不限时套餐流量用完才停，真正超值！
 
