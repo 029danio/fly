@@ -62,15 +62,16 @@
 
 🚀 不限时套餐说明：流量用完才停！不按时间计费，真正超值，用1年、2年都没问题！
 
-为什么我们比其他机场更值得选？
+为什么超实惠比其他机场更值得选？
 
-🔹 140+ 稳定节点，IEPL专线、广移中转，支持 SS / Vmess / Hysteria 2 / Reality / Wireguard 协议
+🔹 稳定节点，广移中转，支持 SS / Vmess / Hysteria 2 / Reality / Wireguard 协议
 🔹 不限速、不限设备数，完美适配 ChatGPT、Netflix、Disney+、TikTok 等海外应用
 🔹 晚高峰不卡顿，8K视频流畅播放，YouTube测速高达40万+
 🔹 限时85折优惠码：85off55，再不抢就晚了！
 
 
 👉 立即订阅，解锁全球互联网！
+
 ## ParkCloud帕克云（✴️新年特惠7️⃣折码：HPNY7C）▼▼▼点击下方注册免费试用
 ### [官网地址：点击访问](https://jump.923ka.com/#login?code=v3pSKyZr)
 
