@@ -32,7 +32,7 @@
 
 
 ## 超实惠机场——高质量翻墙VPN服务（送全网影视会员）
-###  立即解锁📌 官网地址：https://cshjc.top/web/#/login?code=idnjJ84X
+###  立即解锁：📌 官网地址：https://cshjc.top/web/#/login?code=idnjJ84X
 限时85折优惠码：85off55（抓紧时间！）
 
 为什么选择超实惠机场？
@@ -70,7 +70,7 @@
 🔹 限时85折优惠码：85off55，再不抢就晚了！
 
 
-👉 立即订阅，解锁全球互联网！
+
 
 ## ParkCloud帕克云（✴️新年特惠7️⃣折码：HPNY7C）▼▼▼点击下方注册免费试用
 ### [官网地址：点击访问](https://jump.923ka.com/#login?code=v3pSKyZr)
