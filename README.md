@@ -1,6 +1,7 @@
 # 翻墙机场推荐 | 好用稳定机场节点 | 机场评测 | 秒杀VPN【2025年2月持续更新】
 
-![great-fire-wall](https://github.com/user-attachments/assets/e1a082a7-3272-47c3-8173-d048337811ba)
+![稳定靠谱翻墙机场推荐 png_副本](https://github.com/user-attachments/assets/89402937-3e9b-44ca-9be6-4461a4b1a176)
+
 
 
 
