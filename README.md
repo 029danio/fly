@@ -240,7 +240,9 @@
 
 2️⃣🎢Clash翻墙代理软件下载：https://github.com/029danio/clash
 
-3️⃣（如需挂友情链接🤝，请联系邮箱xasgxq@gmail.com 【请邮件标题署名“友链”】）
+3️⃣ 2025机场推荐：https://github.com/jichangtuijian2025/vpn
+
+🚗（如需挂友情链接🤝，请联系邮箱xasgxq@gmail.com 【请邮件标题署名“友链”】）
 
 😍😍😍 TG福利搜索：https://t.me/jisou?start=a_1638135106  电报神器，搜啥有啥。
 ［聊天框发送要搜的关键词，就可以了］
