@@ -100,7 +100,7 @@
 
 
 ## 🚀 ParkCloud帕克云—— 老牌IEPL专线  
-🎉 新年特惠 7️⃣ 折码：HPNY7C（限时抢购）  
+🎉 新年特惠 8 折码：HPNY7C（限时抢购）  
 
 🔗 [立即注册，免费试用](https://jump.923ka.com/#login?code=v3pSKyZr)
 
