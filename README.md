@@ -202,7 +202,7 @@
  - 最高 2000Mbps 速率可用
  - 24 小时客服响应
 
-## clash官方软件下载
+## clash官方软件下载 (含window，安卓，Macos系统软件）
 [点击获取下载clash官方软件](https://github.com/029danio/clash)
  ## 选机场节点前必看 ！！！【省掉许多麻烦，出海冲浪更顺畅】
 
