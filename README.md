@@ -204,6 +204,7 @@
 
 ## clash官方软件下载 (含window，安卓，Macos系统软件）
 [点击获取下载clash官方软件](https://github.com/029danio/clash)
+
  ## 选机场节点前必看 ！！！【省掉许多麻烦，出海冲浪更顺畅】
 
 
@@ -245,7 +246,7 @@
 
 3️⃣ 2025机场推荐：https://github.com/jichangtuijian2025/vpn
 
-🚗（如需挂友情链接🤝，请联系邮箱xasgxq@gmail.com 【请邮件标题署名“友链”】）
+🚗（如需挂友情链接🤝，请联系邮箱xasgxq@gmail.com 【请邮件标题署名“友链”】感谢🙏）
 
 😍😍😍 TG福利搜索：https://t.me/jisou?start=a_1638135106  电报神器，搜啥有啥。
 ［聊天框发送要搜的关键词，就可以了］
