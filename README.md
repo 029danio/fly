@@ -104,7 +104,7 @@
 
 
 ## 狗狗加速VPN  (注册送三天免费使用)
-### [官网传送门](https://www.dginv.click/#/register?code=sCbWVzQl)
+### 🆗 [官网传送门](https://www.dginv.click/#/register?code=sCbWVzQl)
 注册送三天免费使用,稳定输出服务。适合做外贸。稳定性高，可长期备用。稀缺资源。
 
 #### 1. 标准套餐 ¥15.80/月
