@@ -118,6 +118,7 @@
    - 流量500G  
    - 年付7.5折，2年付6折  
    - 高速专线，极低延迟，全球独家Hysteria2协议
+![fe6b918ee7839de7cffb711cd32bfa6](https://github.com/user-attachments/assets/ecfeec1a-75e9-487b-99b1-f10300eb31ff)
 
 
 
