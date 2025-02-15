@@ -10,13 +10,15 @@
 
 为什么选择超实惠机场？
 
-✅ 高速稳定——高质量IEPL专线，晚高峰照样秒开8K视频，YouTube测速高达40W+
+✅ 高速稳定——高质量线路，晚高峰照样秒开8K视频，YouTube测速高达40W+
 
 ✅ 全平台支持——Windows、Mac、iOS、Android、Linux，无限制设备数
 
 ✅ 流媒体解锁——畅享Netflix、Disney+、HBO、TikTok、ChatGPT、Deepseek等海外应用
 
 ✅ 高性价比——最低 4.9元/月，不限时套餐流量用完才停，真正超值！
+
+✅ 不限速、不限设备数，完美适配海外应用
 
 ✅ 新增福利！ 购买 超实惠机场 送 Emby影视会员，免费看超多优质影片！
 
@@ -65,11 +67,11 @@
 
 🔹 稳定节点，广移中转，支持 SS / Vmess / Hysteria 2 / Reality / Wireguard 协议
 
-🔹 不限速、不限设备数，完美适配 ChatGPT、Netflix、Disney+、TikTok 等海外应用
+🔹 
 
 🔹 晚高峰不卡顿，8K视频流畅播放，YouTube测速高达40万+
 
-🔹 限时85折优惠码：85off55，再不抢就晚了！
+🔹 
 
 
 
