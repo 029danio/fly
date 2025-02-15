@@ -122,7 +122,7 @@
 ## 🚀 ParkCloud帕克云—— 老牌IEPL专线  
 🎉 新年特惠 8 折码：HPNY7C（限时抢购）  
 
-🔗 [立即注册，免费试用](https://jump.923ka.com/#login?code=v3pSKyZr)
+### 🔗  [立即注册，免费试用](https://jump.923ka.com/#login?code=v3pSKyZr)
 
 ### 💡 为什么选择帕克云？ 
 
@@ -136,8 +136,7 @@
 #### 帕克云Pro：200G永久流量，仅 ¥72，一次性购买，支持6设备在线，500Mbps峰值速度  
 ![1738304756690](https://github.com/user-attachments/assets/38230483-ab3a-431d-9980-5df4be1cb88c)
 
-🔥 限时特惠，立即体验高速上网！ 🔥  
-👉 [点击访问官网](https://jump.923ka.com/#login?code=v3pSKyZr) 👈  
+
 
 
 
