@@ -245,8 +245,7 @@
 3️⃣ 2025机场推荐：https://github.com/jichangtuijian2025/vpn
 
 
-😍😍😍 TG福利搜索：https://t.me/jisou?start=a_1638135106  电报神器，搜啥有啥。
-［聊天框发送要搜的关键词，就可以了］
+😍😍😍 TG福利搜索：https://t.me/jisou?start=a_1638135106  电报神器，搜啥有啥。［聊天框发送要搜的关键词，就可以了］
 
 DeepSeek本地免费部署：https://github.com/029danio/deepseek
 
