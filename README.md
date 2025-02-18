@@ -137,6 +137,11 @@
 ![1738304756690](https://github.com/user-attachments/assets/38230483-ab3a-431d-9980-5df4be1cb88c)
 
 
+##  WgetCloud机场 （老牌有保障）
+
+### [前往WgetCloud机场](https://invite.wgetcloud.ltd/auth/register?code=2b4khG)
+
+WgetCloud 机场是香港公司开的，原 GaCloud。SS协议，BGP中转 + 双程 CN2 优质线路，在香港有自己的机房（可能发现机场更好赚？）。普通套餐覆盖地区少一点：香港、台湾、新加坡、美国、日本。首次购买套餐新用户，还可额外领取一张7天的奈飞体验卡。
 
 
 
