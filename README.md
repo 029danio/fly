@@ -151,6 +151,8 @@ WgetCloud 机场是香港公司开的，原 GaCloud。SS协议，BGP中转 + 双
 
 有点小贵。年付流量翻倍。（但架不住质量高）
 
+![7622b0d80784ecd91b86ccfeecafddd](https://github.com/user-attachments/assets/ba60619c-a9be-4c99-ae24-781e79d744fc)
+
 
 
 ## 飞鸟云机场
