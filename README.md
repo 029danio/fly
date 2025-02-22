@@ -260,7 +260,7 @@ WgetCloud 机场是香港公司开的，原 GaCloud。SS协议，BGP中转 + 双
 
 2️⃣🎢Clash翻墙代理软件下载：https://github.com/029danio/clash
 
-3️⃣ 2025机场推荐：https://github.com/jichangtuijian2025/vpn
+3️⃣ 2025机场VPN推荐：https://github.com/jichangtuijian2025/vpn
 
 
 😍😍😍 TG福利搜索：https://t.me/jisou?start=a_1638135106  电报神器，搜啥有啥。［聊天框发送要搜的关键词，就可以了］
