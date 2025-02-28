@@ -285,7 +285,7 @@ WgetCloud（前身为GaCloud）是由香港公司推出的优质VPN机场，提�
 ## 友情链接：
 ①👍稳定高速机场VPN推荐【严选版】：https://www.flyvpn88.top
 
-②🎢Clash翻墙代理软件下载：https://github.com/029danio/clash
+②🎢翻墙代理软件下载【下载站】：https://github.com/029danio/clash
 
 ③ 2025机场VPN推荐：https://github.com/jichangtuijian2025/vpn
 
