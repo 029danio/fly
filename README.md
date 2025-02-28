@@ -283,7 +283,7 @@ WgetCloud（前身为GaCloud）是由香港公司推出的优质VPN机场，提�
 - 邮箱:  xasgxq@gmail.com
 
 ## 友情链接：
-①👍更多其他专业稳定机场VPN推荐：https://flyvpn88.top/
+①👍稳定高速机场VPN推荐【严选版】：https://www.flyvpn88.top
 
 ②🎢Clash翻墙代理软件下载：https://github.com/029danio/clash
 
