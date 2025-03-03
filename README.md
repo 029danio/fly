@@ -216,9 +216,6 @@ WgetCloud（前身为GaCloud）是由香港公司推出的优质VPN机场，提�
 
 🚀 不限时套餐说明：流量用完才停！不按时间计费，用1年、2年都没问题！
 
-#### 买机场送emby影视会员服务
-![image](https://github.com/user-attachments/assets/76212f77-ed82-4b2d-b1af-9c21166a622b)
-
 
 
 ![telegram-cloud-document-5-6138799225779001729](https://github.com/user-attachments/assets/6797b233-4740-470a-8460-5d2a4ecb795e)
