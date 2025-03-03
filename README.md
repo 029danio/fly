@@ -34,6 +34,8 @@
 135元 / 3000G【UP主同款！强烈推荐】一次性买断，省心用3年，最划算的选择！随时涨价，抓紧入手！
 
 
+##  蜂群VPN机场(长期在线节点大约50余个，带宽1000MB)
+### [前往蜂群VPN机场](https://fq-top-v-fast.com/#/register?code=dPX7oJk6)
 
 
 ##  WgetCloud机场 （老牌有保障）
