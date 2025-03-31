@@ -254,7 +254,7 @@ WgetCloud（前身为GaCloud）是由香港公司推出的优质VPN机场，提�
 ③ 2025机场VPN推荐：https://github.com/jichangtuijian2025/vpn
 
 
-😍😍😍 TG福利搜索：https://t.me/jisou?start=a_1638135106  电报神器，搜啥有啥。［聊天框发送要搜的关键词，就可以了］
+😍😍😍 TG免费福利搜索：https://t.me/jisou?start=a_1638135106  电报神器，搜啥有啥。［聊天框发送要搜的关键词，就可以了］
 
 DeepSeek本地免费部署：https://github.com/029danio/deepseek
 
