@@ -178,7 +178,7 @@ WgetCloud（前身为GaCloud）是由香港公司推出的优质VPN机场，提�
 
 
 ## 🚀 ParkCloud帕克云—— 老牌IEPL专线  
-🎉 新年特惠 8 折码：HPNY7C（限时抢购）  
+🎉 限时特惠 8 折码：HPNY7C（限时抢购）  
 
 ### 🔗  [立即注册，免费试用](https://jump.923ka.com/#login?code=v3pSKyZr)
 
