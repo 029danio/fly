@@ -114,8 +114,6 @@
 
 
 
-![7622b0d80784ecd91b86ccfeecafddd](https://github.com/user-attachments/assets/ba60619c-a9be-4c99-ae24-781e79d744fc)
-
 
 
 ## 飞鸟云机场
