@@ -94,6 +94,14 @@
 
 
 
+## 🐝 蜂群VPN机场(长期在线节点大约50余个，带宽1000MB)
+
+### 📌 [官网地址 ](https://fq-top-v-fast.com/#/register?code=dPX7oJk6)
+
+蜂群VPN机场，中转，直连原生双线路，安全稳定，支持windows 安卓，ios ，mac ，电视路由器等设备使用。开源工具不记录任何用户信息数据， 全球几十个国家地区节点 ，不限制同时现在线设备数量 专线千兆下行速率 解锁gpt,奈飞，YouTube4k,TikTok，DMM 等所有流媒体
+
+![image](https://github.com/user-attachments/assets/c753d08d-bef5-42cf-9ee9-b86b6e38bc96)
+
 
 ## 可乐云机场
 ### 官网地址：[https://bit.ly/3VncZiB](https://cokecloud.net/#/register?code=fLZICKkC)
@@ -135,24 +143,6 @@
 不限使用时间，不限设备数量，三年老牌机场，线路&节点多、稳定 
 
 同时解锁ChatGPT和Netflix TikTok Telegram ！价格非常诱人！非常适合做备用机场！
-
-
-
-## 🚀 ParkCloud帕克云—— 老牌IEPL专线  
-
-### 🔗  [立即注册，免费试用](https://jump.923ka.com/#login?code=v3pSKyZr)
-
-### 💡 为什么选择帕克云？ 
-
- ✅ 高速稳定： 日本、香港、美国等全球热门节点，流畅支持4K视频、游戏加速、社交媒体！  
- ✅ 流媒体解锁：Netflix、Disney+、ChatGPT、HBO无障碍访问，智能分流，安全稳定！  
- ✅ IEPL专线 ：低延迟高带宽，轻松访问全球内容！  
- ✅ 多设备支持 ：自有客户端，随时随地自由切换！  
- ✅ 老牌稳定：三年稳定运营，老牌可靠！  
- ✅ 包流量套餐灵活，价格实惠：  
-#### 帕克云Plus：100G永久流量，仅 ¥36，一次性购买，支持3设备在线，200Mbps峰值速度  
-#### 帕克云Pro：200G永久流量，仅 ¥72，一次性购买，支持6设备在线，500Mbps峰值速度  
-![1738304756690](https://github.com/user-attachments/assets/38230483-ab3a-431d-9980-5df4be1cb88c)
 
 
 
