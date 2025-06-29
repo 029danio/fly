@@ -14,6 +14,8 @@
 
 ✅ 高速稳定——高质量线路，晚高峰照样秒开8K视频，YouTube测速高达40W+
 
+✅ 安全防封号，IP节点质量高，伪装度高！无惧TG, 推特, Facebook等账号被封
+
 ✅ 全平台支持——Windows、Mac、iOS、Android、Linux，无限制设备数
 
 ✅ 流媒体解锁——畅享Netflix、Disney+、HBO、TikTok、ChatGPT、Deepseek等海外应用
