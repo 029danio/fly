@@ -146,7 +146,13 @@
 
 
 
+## 🐝 蜂群VPN机场(长期在线节点大约50余个，带宽1000MB)
 
+### 📌 [官网地址 ](https://fq-top-v-fast.com/#/register?code=dPX7oJk6)
+
+蜂群VPN机场，中转，直连原生双线路，安全稳定，支持windows 安卓，ios ，mac ，电视路由器等设备使用。开源工具不记录任何用户信息数据， 全球几十个国家地区节点 ，不限制同时现在线设备数量 专线千兆下行速率 解锁gpt,奈飞，YouTube4k,TikTok，DMM 等所有流媒体
+
+![image](https://github.com/user-attachments/assets/c753d08d-bef5-42cf-9ee9-b86b6e38bc96)
 
 
 
