@@ -69,7 +69,7 @@
 
 
 ## 流量光机场（专业老牌机场）版主长达2年以上的暴力跟踪测试
-### 官网地址：[https://cutt.ly/heU2e2U3](https://cutt.ly/heU2e2U3)
+### 官网地址：[https://cutt.ly/we88YyjO](https://cutt.ly/we88YyjO)
 
 2023年机场圈的黑马，2024年更是以稳定著称，机场推荐名列前茅，专业老牌机场，中转线路（含小部分专线节点）晚高峰秒开8K，机场节点众多，提供冷门国家, 解锁流媒体和ChatGPT 奈飞 TikTok 
 
