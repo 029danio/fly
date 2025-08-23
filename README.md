@@ -147,7 +147,20 @@
 
 
 
+## Tapcloud
+### 官网地址：[https://cutt.ly/LrJL4lb4](https://tapcloud.me/web/#/login?code=eoy8H7Pb)
+优质中转线路，20+多国家落地节点，晚高峰流畅观看4K/8K视频，同时大多数节点可以解锁ChatGPT、Netflix非自制剧，如果你觉得免费节点容易失效，那么推荐你试试这家中转机场。
+#### 月付
+12元  100GB(每月）
+20元  200GB(每月）
+40元  500GB(每月）
+ 
+#### 不限时套餐（包流量）
+40元  100GB
+80元  300GB
+180元  1000GB
 
+<img width="1035" height="795" alt="微信图片_20250823172248" src="https://github.com/user-attachments/assets/c29be7c3-4dca-46b6-93f2-a7674224134c" />
 
 
 
