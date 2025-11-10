@@ -68,6 +68,30 @@
 
 
 
+## 狗狗加速VPN  (注册送三天免费使用)
+### 🆗 [官网传送门](https://www.dginv.click/#/register?code=sCbWVzQl)
+注册送三天免费使用,稳定输出服务。适合做外贸。稳定性高，可长期备用。稀缺资源。
+
+#### 1. 标准套餐 ¥15.80/月
+   - 流量160G  
+   - 半年付9.5折，年付9折  
+   - 解锁流媒体及ChatGPT
+
+#### 2. 高级套餐 ¥20.80/月
+   - 流量200G  
+   - 半年付9折，年付8折  
+   - 高速专线，解锁流媒体及ChatGPT
+
+#### 3. 豪华套餐 ¥39.80/月
+   - 流量500G  
+   - 年付7.5折，2年付6折  
+   - 高速专线，极低延迟，全球独家Hysteria2协议
+
+![fe6b918ee7839de7cffb711cd32bfa6](https://github.com/user-attachments/assets/ecfeec1a-75e9-487b-99b1-f10300eb31ff)
+
+
+
+
 ## 🌠流量光机场【已于10月23号全面升级为专线】（老牌专线机场,版主两年跟踪测试）： 
 ### 官网地址：[https://cutt.ly/we88YyjO](https://cutt.ly/we88YyjO)
 
