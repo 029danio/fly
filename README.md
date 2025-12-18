@@ -113,7 +113,8 @@
 51元：流量666G | 不限设备数量   灵活选择，约可用3-5个月
 
 90元：流量1200G | 不限设备数量  灵活选择，约13-14个月，买得多省得多！
-![ded5b6843c1d6f38f25710dacc8fcd2](https://github.com/user-attachments/assets/eb342fb0-fbe9-4d67-9d37-33988471da23)
+
+![cbf4c0df-5f7e-4863-a960-519ada151e30_副本_副本](https://github.com/user-attachments/assets/cd4ebdf1-7ae2-4ecc-9291-ae613784f9de)
 
 
 
