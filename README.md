@@ -234,7 +234,7 @@
    - **付费机场的优势**：付费机场提供更稳定和流畅的使用体验。
 
 
-### 注意：2025 年，很多国外VPN都无法在中国大陆正常使用，本页推荐的都是采用 Shadowsocks、V2ray、Trojan 等专业翻墙协议，经过验证国内正常使用的VPN，可放心使用。此类VPN也被称作机场节点或翻墙机场。
+### 注意：2026 年，很多国外VPN都无法在中国大陆正常使用，本页推荐的都是采用 Shadowsocks、V2ray、Trojan 等专业翻墙协议，经过验证国内正常使用的VPN，可放心使用。此类VPN也被称作机场节点或翻墙机场。
 
 ## 贡献
 
@@ -251,7 +251,7 @@
 
 ②🎢翻墙代理软件下载【下载站】：https://github.com/029danio/clash
 
-③ 2025机场VPN推荐：https://github.com/jichangtuijian2025/vpn
+③ 2026机场VPN推荐：https://github.com/jichangtuijian2025/vpn
 
 
 😍😍😍 TG免费福利搜索：https://t.me/jisou?start=a_1638135106  电报神器，搜啥有啥。［聊天框发送要搜的关键词，就可以了］
