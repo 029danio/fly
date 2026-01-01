@@ -253,7 +253,7 @@
 
 ③ 2026机场VPN推荐：https://github.com/jichangtuijian2025/vpn
 
-④ 2026中国大陆科学上网指南：机场节点推荐、速度对比与选购技巧（小白必看）https://jichangvpn.top/?p=1
+④ 【2026中国大陆科学上网指南】：机场节点推荐、速度对比与选购技巧（小白必看）https://jichangvpn.top/?p=1
 
 ⑤🏆 2026最稳机场推荐榜单（实测不吹版）https://jichangvpn.top/?p=32
 
