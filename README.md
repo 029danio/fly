@@ -134,6 +134,13 @@
 同时解锁ChatGPT和Netflix TikTok Telegram ！价格非常诱人！非常适合做备用机场！
 
 
+## 🐝 蜂群VPN机场(长期在线节点大约50余个，带宽1000MB)
+
+### 📌 [官网地址 ](https://fengqun.io/#/register?code=MKPsTRgw)
+
+蜂群VPN机场，专线，直连原生双线路，安全稳定，支持windows 安卓，ios ，mac ，电视路由器等设备使用。开源工具不记录任何用户信息数据， 全球几十个国家地区节点 ，不限制同时现在线设备数量 专线千兆下行速率 解锁gpt,奈飞，YouTube4k,TikTok，DMM 等所有流媒体
+<img width="862" height="1194" alt="1775817926912" src="https://github.com/user-attachments/assets/f9e7df9f-89cd-4a26-b3bd-5bf661a4c961" />
+
 
 
 ## 🥤可乐云机场
