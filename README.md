@@ -191,7 +191,7 @@
 
 如需帮助或有任何疑问，请通过以下方式联系我们：
 
-- 邮箱:  xasgxq@gmail.com
+- 邮箱:  lglavande@gmail.com
 
 ## 友情链接：
 ①👍稳定高速机场VPN节点推荐【严选版】：https://www.flyvpn88.top
