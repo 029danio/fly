@@ -125,6 +125,16 @@
 
 
 
+
+## 🎦万达云机场
+### [官网地址：https://cutt.ly/9tHdjxmT](https://cutt.ly/9tHdjxmT)
+专线机场。晚高峰测速带宽剩余足够。有按量付费的一次性永久流量套餐。如果需要按量的可以看看这家。
+节点国家与地区：日本、新加坡、台湾、韩国、越南、印度、德国、迪拜、瑞典、马来西亚、英国、法国、意大利、土耳其、孟加拉、南极、朝鲜、哈萨克斯坦、菲律宾、泰国、卢森堡。（接下来的有家宽：）香港、美国、印尼、柬埔寨、荷兰、德国。
+<img width="813" height="1270" alt="36a2d8da04df92409cc1b7a2f31e027_副本" src="https://github.com/user-attachments/assets/91464301-4942-450e-952d-3eee66f9eecf" />
+
+
+
+
 ## 🥤可乐云机场
 ### 官网地址：[https://bit.ly/3VncZiB](https://cokecloud.net/#/register?code=fLZICKkC)
 总部美国，主打安全，翻墙100%安全的机场VPN
