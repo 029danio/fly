@@ -229,14 +229,6 @@
 
 ③ 2026机场VPN推荐：https://github.com/jichangtuijian2025/vpn
 
-④ 【2026中国大陆科学上网指南】：机场节点推荐、速度对比与选购技巧（小白必看）https://jichangvpn.top/?p=1
-
-⑤🏆 2026最稳机场推荐榜单（实测不吹版）https://jichangvpn.top/?p=32
-
-
-- [机场节点越多越好吗？99% 的新手都理解错了](https://jichangvpn.top/?p=230)
-- [Clash 用久了变慢？可能是这 5 个原因（90% 的人忽略了）](https://jichangvpn.top/?p=243)
-- [延迟是什么？延迟低一定更好吗？（小白别再被数值骗了）](https://jichangvpn.top/?p=233)
 
 
 ------------------
