@@ -1,9 +1,8 @@
 # 翻墙机场推荐 | 好用稳定机场节点 | 机场评测 | 秒杀VPN【2026年5月持续更新】
 ![image](https://github.com/user-attachments/assets/1a9306ff-8fd5-4832-8682-d44c74a6f283)
 
-<img width="1916" height="821" alt="ChatGPT Image 2026年5月7日 17_48_29" src="https://github.com/user-attachments/assets/42f37b36-95b8-45f5-8936-ed98c787c253" />
 
-
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/15fc9f68-362b-4f07-80d0-ebb2b343faa9" />
 
 
 
