@@ -2,9 +2,7 @@
 ![image](https://github.com/user-attachments/assets/1a9306ff-8fd5-4832-8682-d44c74a6f283)
 
 
-<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/15fc9f68-362b-4f07-80d0-ebb2b343faa9" />
-
-
+<img width="1672" height="663" alt="ebd00358-4b3e-4231-a4c8-e97a0d918b89_副本" src="https://github.com/user-attachments/assets/a62ec6c2-2333-4d2b-b836-3960470c6ba6" />
 
 
 
