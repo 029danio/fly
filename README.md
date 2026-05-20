@@ -142,7 +142,8 @@
 📱 支持 Windows / macOS / Android / iOS / Linux
 🔒 数据加密传输，提升网络隐私与安全
 👨‍👩‍👧 支持多设备同时使用
-<img width="1039" height="1253" alt="783570cf-6686-4540-9826-4c1fdef88a04" src="https://github.com/user-attachments/assets/5ed611a6-13a8-4314-bfa2-7e0f53a042b8" />
+<img width="935" height="1155" alt="e1ddc537-29fc-48e7-85d2-59e7e3c0f813" src="https://github.com/user-attachments/assets/f2b5f7c2-3543-4c7a-bafc-0deb2cf9b18b" />
+
 📌 使用体验
 整体属于偏稳定路线，日常刷网页、看视频、使用 AI 工具体验都比较流畅。
 如果是长期主力使用，更建议直接选择 200GB 或 500GB 套餐，会更省心。
