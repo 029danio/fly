@@ -128,33 +128,7 @@
 
 
 
-## 🚀 TAPCloud｜高速稳定机场推荐
 
-### 📌 官网地址：[https://cutt.ly/ltBMLpDm](https://cutt.ly/ltBMLpDm)
-支持 ChatGPT、Netflix、Disney+、TikTok 等主流服务解锁，适合日常科学上网、AI 使用、4K 视频观看等需求。
-节点覆盖香港、日本、新加坡、台湾、美国等热门地区，多平台客户端支持完善。
-
-✨ 核心特点
-
-⚡ 高速稳定线路，峰值速率最高可达 3000Mbps+
-
-🌍 多地区优质节点覆盖
-
-🤖 支持 ChatGPT / Claude / AI 工具
-
-🎬 解锁 Netflix / Disney+ / HBO / TikTok
-
-📱 支持 Windows / macOS / Android / iOS / Linux
-
-🔒 数据加密传输，提升网络隐私与安全
-
-👨‍👩‍👧 支持多设备同时使用
-
-<img width="935" height="1155" alt="e1ddc537-29fc-48e7-85d2-59e7e3c0f813" src="https://github.com/user-attachments/assets/f2b5f7c2-3543-4c7a-bafc-0deb2cf9b18b" />
-
-📌 使用体验
-整体属于偏稳定路线，日常刷网页、看视频、使用 AI 工具体验都比较流畅。
-如果是长期主力使用，更建议直接选择 200GB 或 500GB 套餐，会更省心。
 
 
 
