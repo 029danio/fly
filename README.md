@@ -123,7 +123,7 @@
 
 
 ## 🦈黑鲨云机场
-### [官网传送门](https://nb.heishapro.top/#/register?code=XizqCvyL)
+### 官网地址： [官网传送门](https://nb.heishapro.top/#/register?code=XizqCvyL)
 
 > **零日志 | 全球专线 | 匿名加密支付（仅支持U支付） | 完美解锁流媒体与 AI 工作流**
 
@@ -146,7 +146,12 @@
 
 <img width="797" height="873" alt="f3fc2c26c534b61d5370eb12a6fb09ee" src="https://github.com/user-attachments/assets/58f901e2-bff9-4fb9-80ce-178d65399359" />
 
-
+|  黑鲨云机场 | 付款周期 | 价格 | 每月流量 | 同时在线数量 |
+|  ----  | ----  | ----  | ----  |----  |
+| 轻度冲浪  | 月付 | 12.9元  | 100G | 3  |
+| 畅爽冲浪  | 月付 | 36元  | 260G【高速专线】 | 5  |
+| 不限时套餐  | 1000G流量不限时 | 160元  | 1000G【高速专线】 | 6  |
+| 不限时套餐  | 2000G流量不限时| 350元 | 2000G【高速专线】 | 6 |
 
 
 
