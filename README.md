@@ -143,7 +143,8 @@
    * **原生 IP 解锁**：轻松解锁 Netflix、Disney+、YouTube 4K/8K 及 Open AI / ChatGPT 等全球主流流媒体与 AI 服务。
    * **集群负载均衡**：自动为您匹配最佳节点，保障高峰期依然低延迟、极速响应。
    * **无日志策略**：节点不记录任何用户访问日志，彻底保障数据安全。
-<img width="831" height="899" alt="价目表" src="https://github.com/user-attachments/assets/546528a8-aaca-4ba8-bf04-1101a46d598d" />
+
+<img width="797" height="873" alt="f3fc2c26c534b61d5370eb12a6fb09ee" src="https://github.com/user-attachments/assets/58f901e2-bff9-4fb9-80ce-178d65399359" />
 
 
 
