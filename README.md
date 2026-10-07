@@ -1,6 +1,6 @@
 # 机场推荐 2026：稳定高速翻墙机场 / VPN 推荐（每月更新）
 
-> **内容最后更新：2026年10月2日**｜本页每月更新，榜单内均为国内实测可用的翻墙机场节点，采用 Shadowsocks / V2Ray / Trojan 等协议，稳定高速。
+> **内容最后更新：2026年10月6日**｜本页每月更新，榜单内均为国内实测可用的翻墙机场节点，采用 Shadowsocks / V2Ray / Trojan 等协议，稳定高速。
 
 ![image](https://github.com/user-attachments/assets/1a9306ff-8fd5-4832-8682-d44c74a6f283)
 
