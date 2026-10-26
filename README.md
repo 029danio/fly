@@ -116,7 +116,7 @@
 
 **IEPL 专线机场推荐：月付 19.99 元起，不限时流量包用完才停**
 
-### 📌 官网直达：https://ml.yfqz1.net/register?code=5Vo0aBUf
+### 📌 官网直达：[https://cutt.ly/GyT87sai](https://ml.yfqz1.net/register?code=5Vo0aBUf)
 
 月付 ¥19.99/100GB 起，200Mbps，2 台设备，入门门槛不高。LV2 月付 ¥29.99/200GB，300Mbps，3 台设备，日常主力用这个档最划算！
 
