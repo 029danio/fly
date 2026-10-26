@@ -120,11 +120,17 @@
 
 ### 📌 官网直达：[https://cutt.ly/dtXjjjyR](https://fengqun.io/#/register?code=MKPsTRgw)
 
-蜂群cheap，专线，直连原生双线路，安全稳定，支持 Windows、安卓、iOS、Mac、电视路由器等设备使用。开源工具不记录任何用户信息数据，全球几十个国家地区节点，不限制同时在线设备数量，专线千兆下行速率，解锁 GPT、奈飞、YouTube 4K、TikTok、DMM 等所有流媒体。
+蜂群cheap，专线，直连原生双线路，安全稳定，支持 Windows、安卓、iOS、Mac、电视路由器等设备使用。开源工具不记录任何用户信息数据，覆盖 60+ 国家地区·全球线路，专线千兆下行速率，解锁 GPT、奈飞、YouTube 4K、TikTok、DMM 等所有流媒体。
 
 长期在线节点大约 50 余个，带宽 1000MB。
 
-<img width="600" alt="蜂群cheap" src="https://github.com/user-attachments/assets/f9e7df9f-89cd-4a26-b3bd-5bf661a4c961" />
+#### 套餐价格
+
+- 通用订阅：18 元/月，220G 流量，1000Mbps，5 台设备（年付低至 13.16 元/月）
+- 高级订阅：28 元/月，不限流量、不限速，10 台设备（年付低至 19.83 元/月）
+- 不限时流量包：3000G 一次性 758 元，流量用完为止，不限使用周期
+
+<img width="600" alt="蜂群cheap套餐价格" src="images/fengqun-price.jpg" />
 
 ## 扬帆云机场
 
