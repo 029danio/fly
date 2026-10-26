@@ -118,7 +118,7 @@
 
 **专线直连机场推荐：原生双线路，千兆下行速率**
 
-### 📌 官网直达：https://fengqun.io/#/register?code=MKPsTRgw
+### 📌 官网直达：[https://cutt.ly/dtXjjjyR](https://fengqun.io/#/register?code=MKPsTRgw)
 
 蜂群cheap，专线，直连原生双线路，安全稳定，支持 Windows、安卓、iOS、Mac、电视路由器等设备使用。开源工具不记录任何用户信息数据，全球几十个国家地区节点，不限制同时在线设备数量，专线千兆下行速率，解锁 GPT、奈飞、YouTube 4K、TikTok、DMM 等所有流媒体。
 
