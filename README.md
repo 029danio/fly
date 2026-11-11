@@ -1,6 +1,6 @@
 # 机场推荐 2026：稳定高速翻墙机场 / VPN 推荐（每月更新）
 
-> **内容最后更新：2026年11月8日**｜本页每月更新，榜单内均为国内实测可用的翻墙机场节点，采用 Shadowsocks / V2Ray / Trojan 等协议，稳定高速。
+> **内容最后更新：2026年11月11日**｜本页每月更新，榜单内均为国内实测可用的翻墙机场节点，采用 Shadowsocks / V2Ray / Trojan 等协议，稳定高速。
 
 ![image](https://github.com/user-attachments/assets/1a9306ff-8fd5-4832-8682-d44c74a6f283)
 
@@ -222,7 +222,7 @@ LV3（¥39.99/月）以上带 IEPL 专线，LV4（¥49.99/月）更是全 IEPL �
 有可能。GFW 会不定期封锁 IP 和端口，这是所有机场的共性风险。应对办法：① 选择有多个入口 / 经常更新线路的机场；② 手头备 2～4 个机场；③ 优先不限时套餐，封了也不心疼。本页榜单每月更新，失联的机场会及时下架。
 
 ### iOS（苹果手机）用什么客户端连接机场？
- iOS 端主流是 Shadowrocket（小火箭）和 Stash，需要外区 Apple ID 下载。安卓用 ClashMeta / v2rayNG，Windows / Mac 用 Clash Verge 或 v2rayN。订阅链接复制进客户端即可一键导入节点。
+ iOS 端主流是 Shadowrocket（小火箭）和 Stash，需要外区 Apple ID 下载。安卓用 ClashMeta / v2rayNG，Windows / Mac 用 Clash Verge Rev 或 v2rayN。订阅链接复制进客户端即可一键导入节点。
 
 ### 机场节点能解锁 ChatGPT 和 Netflix 吗？
 本页推荐的五家机场均支持解锁 ChatGPT、Netflix、Disney+、TikTok 等流媒体与 AI 应用，具体以各机场详情页的"解锁能力"说明为准，购买前可用月付 / 短期套餐先实测。
@@ -241,7 +241,7 @@ LV3（¥39.99/月）以上带 IEPL 专线，LV4（¥49.99/月）更是全 IEPL �
 
 [点击获取 clash 官方软件（含 Windows、安卓、MacOS）](https://github.com/029danio/clash)
 
-Windows / Mac 推荐 [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev/releases/latest)（最新版 v2.5.10，2026 年 11 月 3 日发布）；安卓推荐 [v2rayNG](https://github.com/2dust/v2rayNG/releases/latest)（最新版 2.3.15，2026 年 11 月 1 日发布）。
+Windows / Mac 推荐 [Clash Verge Rev](https://github.com/clash-verge-rev/clash-verge-rev/releases/latest)（最新版 v2.5.10，2026 年 11 月 3 日发布）；安卓推荐 [v2rayNG](https://github.com/2dust/v2rayNG/releases/latest)（最新版 2.3.15，2026 年 11 月 1 日发布）。mihomo 内核最新版 [v1.19.34](https://github.com/MetaCubeX/mihomo/releases/latest)（2026 年 11 月 11 日发布），Clash Verge Rev 等客户端均基于该内核。
 
 ## 贡献
 
